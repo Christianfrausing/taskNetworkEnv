@@ -1,0 +1,9 @@
+
+*Dockerfile
+*.yml
+*.env
+*.dockerignore
+*.md
+*.png
+*.html
+__pycache__

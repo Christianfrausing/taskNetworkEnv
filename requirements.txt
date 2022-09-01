@@ -1,0 +1,17 @@
+
+# ds
+ncls
+pandas
+networkx
+numpy
+
+# rl
+ray[all]==1.13
+torch
+gym==0.21
+
+# plot
+pydot
+plotly
+graphviz
+matplotlib

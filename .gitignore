@@ -1,0 +1,12 @@
+
+note*
+*.csv
+*.ifc
+*.stl
+*.zarr
+*.json
+*.zip
+*.html
+api.py
+.pytest_cache
+__pycache__
