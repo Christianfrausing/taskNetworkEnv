@@ -1,5 +1,5 @@
 
 # Command
 ```
-docker-compose run --rm placon-gym sh -c 'python /usr/src/tests/learning.py'
+docker-compose run --rm task-network-env sh -c 'python /usr/src/tests/learning.py'
 ```
